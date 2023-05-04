@@ -5,14 +5,14 @@ My name is Iryna Kolhanova. I am Junior Front-end Developer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-<p align="center">
-<a href="https://github.com/IrynaKolh">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&langs_count=8)](https://github.com/IrynaKolh/github-readme-stats)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrynaKolh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-
-</a>
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IrynaKolh's github stats" /></a> | <a href="https://github.com/IrynaKolh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 - <!--
