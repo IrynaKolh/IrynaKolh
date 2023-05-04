@@ -3,6 +3,9 @@
 
 My name is Iryna Kolhanova. I am Junior Front-end Developer.
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 <p align="center">
 <a href="https://github.com/IrynaKolh">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrynaKolh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -10,8 +13,7 @@ My name is Iryna Kolhanova. I am Junior Front-end Developer.
 </a>
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - <!--
  RSS SCHOOL:
 Stage 0 - https://github.com/rolling-scopes-school/irynakolh-JSFEPRESCHOOL
