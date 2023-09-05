@@ -13,8 +13,7 @@
 <code><img height="20" alt="git" <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
 
-|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="IrynaKolh's github stats" /></a> | <a href="https://github.com/IrynaKolh/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=vue-dark&hide_border=true" /></a> |
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 - <!--
  RSS SCHOOL:
