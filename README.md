@@ -1,53 +1,113 @@
 <h1 align="center">Hi 👋, I am Iryna Kolhanova</h1>
-<h3 align="center">Front-end Web Developer and QA Automation Engineer</h3>
-🌱 Currently learning Playwright, Python and Java. 
-<picture>
- <img alt="My Codewars kyu" src="https://www.codewars.com/users/Iryna%20K/badges/large">
-</picture>
+<h3 align="center">Software Engineer</h3>
+<img alt="My Codewars kyu" src="https://www.codewars.com/users/Iryna%20K/badges/large">
 <h3 align="left">Languages and Tools:</h3>
 
-   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
-   ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white&color=%23646CFF)
-   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-   ![Styled Components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-   ![Testing Library](https://img.shields.io/badge/testing_library-%23E33332?style=for-the-badge&logo=testinglibrary&logoColor=white&color=%23E33332)
-   ![Angular](https://img.shields.io/badge/angular-%230F0F11?style=for-the-badge&logo=angular&logoColor=white&color=%230F0F11)
-   ![Java](https://img.shields.io/badge/openjdk-%23000000?style=for-the-badge&logo=openjdk&logoColor=white&color=%23000000)
-   ![Apache Maven](https://img.shields.io/badge/apache_maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&color=%23C71A36)
-   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=%23000000)
-   ![Graphql](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql&logoColor=white&color=%23E10098)
-   ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
-   ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![Postman](https://img.shields.io/badge/postman-%2523E34F26.svg?style=for-the-badge&logo=postman&logoColor=white&color=orange)
-   ![Git](https://img.shields.io/badge/git-%2523E34F26.svg?style=for-the-badge&logo=git&logoColor=white&color=gray)
-   ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939)
-   ![Cypress](https://img.shields.io/badge/cypress-6DA55F?style=for-the-badge&logo=cypress&logoColor=white)
-   ![Playwright](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white&color=%232EAD33)
-   ![Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white&color=%2343B02A)
-   ![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
-   ![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&color=red)
-   ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182?style=for-the-badge&logo=jasmine&logoColor=white&color=%238A4182)
-
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/></a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=buefy&hide_border=true" /></a> |
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IrynaKolh&" alt="IrynaKolh" /></p>
 
+<h1 align="center">Projects</h1>
+<!--
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">HM Baking</h3><br/>
+      <p align="center">
+        <a target="_blank" href="(https://ikol-bakery-site.onrender.com/">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/talc.gif" alt="portfolio" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Talckatoo" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://www.talckatoo.me/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>TypeScript | Socket.io | MongoDB | Express.js | React.js | Node.js</strong><br>A cutting-edge multi-language chat app that effortlessly connects individuals from different linguistic backgrounds.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Text-Crypt</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://text-crypt.netlify.app/">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/tc-demo.gif" alt="text-crypt" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/textual-cryptography" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://text-crypt.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
+        </a>
+        <a href="https://textcrypt-api.onrender.com/api-docs/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=API&color=10155c&style=plastic&logo=swagger&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A full-stack text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Maajon's Kitchen</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://maajonskitchen-demo.onrender.com">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/mjk.gif" alt="mjk" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://maajonskitchen-demo.onrender.com" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AYAT Clothing Store</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://ayatclothing.netlify.app/">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/aya.gif" alt="ayat" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/Clothing-Fashion-Website" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://ayatclothing.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML | CSS | JavaScript | Bootstrap | PHP</strong><br>A static website built for an Afghan Hijab fashion clothing store located in Afghanistan called AYAT, showcasing various designs of Afghan Hijab fashion clothing.</p>
+    </td>
+  </tr>
+</table>
+--> 
 - <!--
  RSS SCHOOL:
 Stage 0 - https://github.com/rolling-scopes-school/irynakolh-JSFEPRESCHOOL
 Stage 1-2 - https://github.com/rolling-scopes-school/irynakolh-JSFE2022Q1
 Angular - https://github.com/rolling-scopes-school/irynakolh-ANGULAR2022Q3
 Node.JS
--->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -56,4 +116,6 @@ Node.JS
 - ⚡ Fun fact: ...
 - - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+-->
+
 
