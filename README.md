@@ -20,7 +20,12 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/></a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=buefy&hide_border=true" /></a> |
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IrynaKolh&" alt="IrynaKolh" /></p>
+
+<p>Here are some stats about my work:</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact)
 
 <h1 align="center">Projects</h1>
 <!--
