@@ -73,10 +73,8 @@ Python • Django • React • TypeScript • SQL
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight" />
