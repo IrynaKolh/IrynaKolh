@@ -18,35 +18,22 @@
 
 ## About Me
 
-Software Engineer focused on backend systems, SQL development, and enterprise data processing.
-Working with large-scale datasets, ETL workflows, SSIS packages, and internal business applications used for operational and analytical processes. Experienced in building and maintaining backend services, database logic, and data-driven applications within enterprise environments.
-Tech stack includes SQL, TypeScript, Angular, React, .NET, Node.js, Python, and Django.
-Designed to support complex eligibility calculations and structured user input workflows.
+<ul>
+  <li>Software Engineer focused on backend systems, SQL development, and enterprise data processing.</li>
+  <li>Working with large-scale datasets, ETL workflows, SSIS packages, and internal business applications used for operational and analytical processes. Experienced in building and maintaining backend services, database logic, and data-driven applications within enterprise environments.</li>
+  <li>Tech stack includes SQL, TypeScript, Angular, React, .NET, Node.js, Python, and Django.</li>
+  <li>Designed to support complex eligibility calculations and structured user input workflows.</li>
+</ul>
 
 ---
 
 ## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-20232A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3)
+## Tech Stack
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-20232A?style=for-the-badge&logo=django)
-
-### Databases & Tools
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-20232A?style=for-the-badge&logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/-MySQL-20232A?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-20232A?style=for-the-badge&logo=postman)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,dotnet,python,django,mysql,mongodb,git,postman" />
+</p>
 ---
 
 ## Featured Project
@@ -102,11 +89,11 @@ Python • Django • React • TypeScript • SQL
 
 ## Current Focus
 
-- Frontend architecture
-- TypeScript
-- Enterprise applications
-- SQL & backend integrations
-- AI tooling for developers
+- Enterprise application development
+- SQL and ETL/data processing workflows
+- Internal business platforms and backend systems
+- Full-stack support with Angular, React, and .NET
+- AI tools for development productivity
 
 ---
 
