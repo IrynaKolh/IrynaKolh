@@ -13,9 +13,17 @@
     <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrynaKolh)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrynaKolh&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrynaKolh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
