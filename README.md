@@ -14,10 +14,9 @@
   </a>
 </p>
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
