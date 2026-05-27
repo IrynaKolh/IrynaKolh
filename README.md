@@ -59,7 +59,7 @@ Python • Django • React • TypeScript • SQL
 <!-- Add demo video or GIF here -->
 
 <p align="center">
-  <img src="./assets/ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
+  <img src="./ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
 </p>
 
 ---
