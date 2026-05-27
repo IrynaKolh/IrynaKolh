@@ -8,10 +8,16 @@
   <a href="https://github.com/IrynaKolh">
     <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
-
+   
   <a href="https://www.codewars.com/users/Iryna%20K">
     <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
   </a>
+</p>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
 </p>
 
 ---
