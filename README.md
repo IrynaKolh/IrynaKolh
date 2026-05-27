@@ -29,8 +29,6 @@
 
 ## Tech Stack
 
-## Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,dotnet,python,django,mysql,mongodb,git,postman" />
 </p>
@@ -61,7 +59,7 @@ Python • Django • React • TypeScript • SQL
 <!-- Add demo video or GIF here -->
 
 <p align="center">
-  <img src="./assets/myfriendben-demo.gif" width="900" alt="MyFriendBen Demo"/>
+  <img src="./assets/ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
 </p>
 
 ---
