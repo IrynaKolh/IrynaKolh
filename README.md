@@ -1,127 +1,116 @@
-<h1 align="center">Hi 👋, I am Iryna Kolhanova</h1>
-<h3 align="center">Software Engineer</h3>
-<img alt="My Codewars kyu" src="https://www.codewars.com/users/Iryna%20K/badges/large">
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Hi, I'm Iryna Kolhanova 👋</h1>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/></a>
+<p align="center">
+  Software Engineer with experience in backend development, SQL systems, internal enterprise applications, and full-stack web development.
+</p>
 
+<p align="center">
+  <a href="https://github.com/IrynaKolh">
+    <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 
-<p>Here are some stats about my work:</p>
+  <a href="https://www.codewars.com/users/Iryna%20K">
+    <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact)
+## About Me
 
-[![Iryna Kolh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IrynaKolh)](https://github.com/IrynaKolh/github-readme-stats)
+Software Engineer focused on backend systems, SQL development, and enterprise data processing.
+Working with large-scale datasets, ETL workflows, SSIS packages, and internal business applications used for operational and analytical processes. Experienced in building and maintaining backend services, database logic, and data-driven applications within enterprise environments.
+Tech stack includes SQL, TypeScript, Angular, React, .NET, Node.js, Python, and Django.
+Designed to support complex eligibility calculations and structured user input workflows.
 
-<h1 align="center">Projects</h1>
-<!--
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">HM Baking</h3><br/>
-      <p align="center">
-        <a target="_blank" href="(https://ikol-bakery-site.onrender.com/">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/talc.gif" alt="portfolio" width="100%">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Talckatoo" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://www.talckatoo.me/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>TypeScript | Socket.io | MongoDB | Express.js | React.js | Node.js</strong><br>A cutting-edge multi-language chat app that effortlessly connects individuals from different linguistic backgrounds.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Text-Crypt</h3><br/>
-      <p align="center">
-        <a target="_blank" href="https://text-crypt.netlify.app/">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/tc-demo.gif" alt="text-crypt" width="100%">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/msrezaie/textual-cryptography" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://text-crypt.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
-        </a>
-        <a href="https://textcrypt-api.onrender.com/api-docs/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=API&color=10155c&style=plastic&logo=swagger&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A full-stack text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Maajon's Kitchen</h3><br/>
-      <p align="center">
-        <a target="_blank" href="https://maajonskitchen-demo.onrender.com">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/mjk.gif" alt="mjk" width="100%">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://maajonskitchen-demo.onrender.com" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">AYAT Clothing Store</h3><br/>
-      <p align="center">
-        <a target="_blank" href="https://ayatclothing.netlify.app/">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/aya.gif" alt="ayat" width="100%">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/msrezaie/Clothing-Fashion-Website" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://ayatclothing.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML | CSS | JavaScript | Bootstrap | PHP</strong><br>A static website built for an Afghan Hijab fashion clothing store located in Afghanistan called AYAT, showcasing various designs of Afghan Hijab fashion clothing.</p>
-    </td>
-  </tr>
-</table>
---> 
-- <!--
- RSS SCHOOL:
-Stage 0 - https://github.com/rolling-scopes-school/irynakolh-JSFEPRESCHOOL
-Stage 1-2 - https://github.com/rolling-scopes-school/irynakolh-JSFE2022Q1
-Angular - https://github.com/rolling-scopes-school/irynakolh-ANGULAR2022Q3
-Node.JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
+---
 
+## Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-20232A?style=for-the-badge&logo=django)
+
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-20232A?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-20232A?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-20232A?style=for-the-badge&logo=postman)
+
+---
+
+## Featured Project
+
+### MyFriendBen
+
+Benefit eligibility platform built with Python, Django, React, and TypeScript.
+
+The application helps users identify public assistance and support programs they may qualify for based on household information, income, expenses, family size, and current benefits.
+
+Focused on:
+- eligibility calculation logic
+- data-driven workflows
+- complex form handling
+- business rule processing
+- frontend and backend integration
+
+**Tech Stack:**  
+Python • Django • React • TypeScript • SQL
+
+---
+
+### Demo
+
+<!-- Add demo video or GIF here -->
+
+<p align="center">
+  <img src="./assets/myfriendben-demo.gif" width="900" alt="MyFriendBen Demo"/>
+</p>
+
+---
+
+### Live Application
+
+[MyFriendBen](https://screener.myfriendben.org/step-1)
+[For North Carolina](https://bennc.org/)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight" />
+</p>
+
+---
+
+## Current Focus
+
+- Frontend architecture
+- TypeScript
+- Enterprise applications
+- SQL & backend integrations
+- AI tooling for developers
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/iryna-kolh/
+- GitHub: https://github.com/IrynaKolh
