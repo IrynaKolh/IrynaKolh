@@ -6,9 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20Views&color=7aa2f7&style=flat" />
-
-  <img src="https://img.shields.io/github/followers/IrynaKolh?label=Followers&style=flat&color=7aa2f7" />
-
+  <img src="https://badges.pufler.dev/visits/IrynaKolh" />
+  <img src="https://badges.pufler.dev/repos/IrynaKolh" />
   <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
 </p>
 
