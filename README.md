@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IrynaKolh">
-    <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-   
-  <a href="https://www.codewars.com/users/Iryna%20K">
-    <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20Views&color=7aa2f7&style=flat" />
+
+  <img src="https://img.shields.io/github/followers/IrynaKolh?label=Followers&style=flat&color=7aa2f7" />
+
+  <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
 </p>
 
 ---
