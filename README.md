@@ -73,7 +73,7 @@ Python • Django • React • TypeScript • SQL
 
 ## GitHub Stats
 
-<p align="center">
+<p>
   <img
    width="45%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
