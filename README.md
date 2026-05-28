@@ -8,7 +8,7 @@
   <a href="https://github.com/IrynaKolh">
     <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
-
+   
   <a href="https://www.codewars.com/users/Iryna%20K">
     <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
   </a>
@@ -26,8 +26,6 @@
 </ul>
 
 ---
-
-## Tech Stack
 
 ## Tech Stack
 
@@ -61,7 +59,7 @@ Python • Django • React • TypeScript • SQL
 <!-- Add demo video or GIF here -->
 
 <p align="center">
-  <img src="./assets/myfriendben-demo.gif" width="900" alt="MyFriendBen Demo"/>
+  <img src="./ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
 </p>
 
 ---
@@ -75,11 +73,8 @@ Python • Django • React • TypeScript • SQL
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight" />
-</p>
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight" />
