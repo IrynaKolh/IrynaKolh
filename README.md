@@ -62,10 +62,9 @@ Python • Django • React • TypeScript • SQL
 
 ### Live Application
 
-[MyFriendBen News](https://myfriendben.ai/?utm_medium=email&_hsenc=p2ANqtz-_2gB7_FP30Wy-6u4QsK_aNcGrn6OqgJoPKjJCNiRkTzbJbi1GssxPeK-ztZaanQlq8m5O8U1A_Q-wndjPvLnu_PKl-Gg&_hsmi=29888862&utm_content=29888862&utm_source=hs_email#)
-[MyFriendBen Screener](https://www.myfriendben.org/)
-
-[MyFriendBen Screener News](https://bennc.org/)
+[MyFriendBen News](https://myfriendben.ai/?utm_medium=email&_hsenc=p2ANqtz-_2gB7_FP30Wy-6u4QsK_aNcGrn6OqgJoPKjJCNiRkTzbJbi1GssxPeK-ztZaanQlq8m5O8U1A_Q-wndjPvLnu_PKl-Gg&_hsmi=29888862&utm_content=29888862&utm_source=hs_email#) | 
+[MyFriendBen Screener](https://www.myfriendben.org/) | 
+[MyFriendBen Screener News](https://bennc.org/) | 
 [MyFriendBen Screener for North Carolina](https://screener.myfriendben.org/nc/step-1)
 
 ---
