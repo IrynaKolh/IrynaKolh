@@ -90,7 +90,7 @@ Python • Django • React • TypeScript • SQL
 
 <p align="center">
   <img
-    width="70%"
+    width="50%"
     src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight&hide_border=true"
   />
 </p>
