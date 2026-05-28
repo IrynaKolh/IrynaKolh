@@ -80,7 +80,6 @@ Python • Django • React • TypeScript • SQL
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
       />
     </td>
-
     <td>
       <img
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight&hide_border=true"
