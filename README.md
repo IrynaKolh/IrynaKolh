@@ -1,7 +1,5 @@
 ![Cream Aesthetic Fashion LinkedIn Banner](https://github.com/IrynaKolh/IrynaKolh/blob/main/ChatGPT%20Image%20May%2027%2C%202026%2C%2007_59_50%20PM.png)
 
-<h1 align="center">Hi, I'm Iryna Kolhanova 👋</h1>
-
 <p align="center">
   Software Engineer with experience in backend development, SQL systems, internal enterprise applications, and full-stack web development.
 </p>
