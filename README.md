@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IrynaKolh&label=Profile%20Views&color=7aa2f7&style=flat" />
-  <img src="https://badges.pufler.dev/commits/yearly/IrynaKolh" />
   <img src="https://badges.pufler.dev/repos/IrynaKolh" />
   <img src="https://www.codewars.com/users/Iryna%20K/badges/small" />
 </p>
@@ -66,7 +65,7 @@ Python • Django • React • TypeScript • SQL
 [MyFriendBen](https://screener.myfriendben.org/step-1)
 [For North Carolina](https://bennc.org/)
 
-[![Contributors Display](https://badges.pufler.dev/contributors/MyFriendBen/benefits-api?size=50&padding=5&perRow=15&bots=false)](https://badges.pufler.dev)
+//[![Contributors Display](https://badges.pufler.dev/contributors/MyFriendBen/benefits-api?size=50&padding=5&perRow=15&bots=false)](https://badges.pufler.dev)
 
 ---
 
