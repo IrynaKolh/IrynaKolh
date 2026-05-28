@@ -75,12 +75,13 @@ Python • Django • React • TypeScript • SQL
 
 <p align="center">
   <img
-    width="48%"
+   width="70%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
   />
-
+</p>
+<p align="center">
   <img
-    width="36%"
+     width="70%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
