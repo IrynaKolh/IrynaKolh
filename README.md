@@ -63,9 +63,8 @@ Python • Django • React • TypeScript • SQL
 ### Live Application
 
 [MyFriendBen](https://screener.myfriendben.org/step-1)
-[For North Carolina](https://bennc.org/)
 
-//[![Contributors Display](https://badges.pufler.dev/contributors/MyFriendBen/benefits-api?size=50&padding=5&perRow=15&bots=false)](https://badges.pufler.dev)
+[For North Carolina](https://bennc.org/)
 
 ---
 
