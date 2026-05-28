@@ -1,3 +1,5 @@
+![Cream Aesthetic Fashion LinkedIn Banner](https://github.com/IrynaKolh/IrynaKolh/blob/main/ChatGPT%20Image%20May%2027%2C%202026%2C%2007_59_50%20PM.png)
+
 <h1 align="center">Hi, I'm Iryna Kolhanova 👋</h1>
 
 <p align="center">
@@ -59,7 +61,7 @@ Python • Django • React • TypeScript • SQL
 <!-- Add demo video or GIF here -->
 
 <p align="center">
-  <img src="./ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
+  <img src="./assets/ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
 </p>
 
 ---
@@ -73,11 +75,22 @@ Python • Django • React • TypeScript • SQL
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=radical)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=IrynaKolh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrynaKolh&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
