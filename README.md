@@ -68,6 +68,16 @@ Python • Django • React • TypeScript • SQL
 [MyFriendBen Screener for North Carolina](https://screener.myfriendben.org/nc/step-1)
 
 ---
+### Metabase statistics dashboard.
+
+<!-- Add demo video or GIF here -->
+
+<p align="center">
+  <img src="./assets/metabase.gif" width="900" alt="Metabase Demo"/>
+</p>
+
+
+---
 
 ## GitHub Stats
 
